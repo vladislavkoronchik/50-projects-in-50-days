@@ -1,6 +1,7 @@
 <h1>50 ОТТЕНКОВ HTML, CSS И JS (50 МИНИ-ПРОЕКТОВ)</h1>
 <ol>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/expanding-cards" onclick="return ! window.open(this.href);">Расширяющиеся карточки</a></li>
+	[Расширяющиеся карточки](https://vladislavkoronchik.github.io/50-shades-of-html-css-js/expanding-cards){:target="_blank"}
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/progress-steps" onclick="return ! window.open(this.href);">Шаги прогресса</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/rotating-nav-animation" onclick="return ! window.open(this.href);">Вращающаяся навигация</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/hidden-search" onclick="return ! window.open(this.href);">Скрытое поле поиска</a></li>
