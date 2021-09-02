@@ -14,3 +14,4 @@
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/faq-spoilers">Спойлеры ЧаВо</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/random-choice-picker">Выбор Наугад</a></li>
 </ol>
+<p>Продолжение следует...</p>
