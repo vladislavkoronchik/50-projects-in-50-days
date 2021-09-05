@@ -14,5 +14,6 @@
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/faq-spoilers">Спойлеры ЧаВо</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/random-choice-picker">Выбор Наугад</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/animated-navigation">Анимация Навигации</a></li>
+	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/incrementing-counter">Счетчик подписчиков</a></li>
 </ol>
 <p>Продолжение следует...</p>
