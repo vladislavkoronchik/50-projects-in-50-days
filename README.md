@@ -17,5 +17,6 @@
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/incrementing-counter">Счетчик подписчиков</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/drink-water">Пейте воду</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/movie-app">Movie App</a></li>
+	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/background-slider">Фоновый слайдер</a></li>
 </ol>
 <p>Продолжение следует...</p>
