@@ -21,5 +21,6 @@
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/theme-clock">Часы</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/button-ripple-effect">Эффект Ряби на Кнопке</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/drag-n-drop">Drag N Drop</a></li>
+	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/drawing-app">Drawing App</a></li>
 </ol>
 <p>Продолжение следует...</p>
