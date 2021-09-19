@@ -24,5 +24,6 @@
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/drawing-app">Drawing App</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/kinetic-loader">Kinetic Loader</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/content-placeholder">Content Placeholder</a></li>
+	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/sticky-navigation">Липкая Навигация</a></li>
 </ol>
 <p>Продолжение следует...</p>
