@@ -1,4 +1,4 @@
-<h1>50 ОТТЕНКОВ HTML, CSS И JS (50 МИНИ-ПРОЕКТОВ)</h1>
+<h1>50 Projects In 50 Days - HTML, CSS & JavaScript (50 МИНИ-ПРОЕКТОВ)</h1>
 <ol>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/expanding-cards">Расширяющиеся карточки</a></li>
 	<li><a href="https://vladislavkoronchik.github.io/50-shades-of-html-css-js/progress-steps">Шаги прогресса</a></li>
